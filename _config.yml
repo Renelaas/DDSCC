@@ -11,6 +11,7 @@ description: "The Dutch Data Security and Compliance Community"
 people:
 - name: Bram de Jager
   pic: 1
+  pic_url: https://media.licdn.com/dms/image/C4E03AQEpHTurhuIkUw/profile-displayphoto-shrink_800_800/0/1526538536475?e=1727913600&v=beta&t=ChWvrc82vbMocfr6kRLW4tOFs6ewE5oH-GkKGIouokI
   position: Organisator
   social:
     - title: twitter
@@ -22,9 +23,10 @@ people:
 
 - name: Freerk Terpstra
   pic: 2
+  pic_url: https://media.licdn.com/dms/image/D4E03AQGsBOOY_8rrTw/profile-displayphoto-shrink_800_800/0/1677647259774?e=1727913600&v=beta&t=TGIRF6i876JSX9VMlJEOckg3WWyxSCnWYwRm9VnE6Rs
   position: Organisator
   social:
-    - title: x
+    - title: twitter
       url: #
     - title: linkedin
       url: #
@@ -45,14 +47,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: meetup
     url: http://twitter.com/jekyllrb
-  - title: LinkedIn Pagina
+  - title: linkedin
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: LinkedIn Group
+  - title: linkedin
     url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:

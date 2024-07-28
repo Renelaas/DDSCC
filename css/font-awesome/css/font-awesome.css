@@ -2084,10 +2084,10 @@
 .fa-percent:before {
   content: "\f295";
 }
-.fa.fa-twitter{
+.fa-twitter{
 	font-family:sans-serif !important;
 }
-.fa.fa-twitter::before{
+.fa-twitter::before{
 	content:"𝕏" !important;
 	font-size:1.2em !important;
 }
