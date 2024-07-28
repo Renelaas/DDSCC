@@ -50,9 +50,7 @@ social:
   - title: meetup
     url: http://twitter.com/jekyllrb
   - title: linkedin
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: linkedin
-    url: http://bitbucket.org/jekyll
+    url: https://www.linkedin.com/company/ddscc/
 
 # Postal address (add as many lines as necessary)
 address:
