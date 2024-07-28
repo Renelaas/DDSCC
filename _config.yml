@@ -18,9 +18,7 @@ people:
       url: #
     - title: linkedin
       url: #
-    - title: github
-      url: #
-
+      
 - name: Freerk Terpstra
   pic: 2
   pic_url: https://media.licdn.com/dms/image/D4E03AQGsBOOY_8rrTw/profile-displayphoto-shrink_800_800/0/1677647259774?e=1727913600&v=beta&t=TGIRF6i876JSX9VMlJEOckg3WWyxSCnWYwRm9VnE6Rs
@@ -29,8 +27,6 @@ people:
     - title: x-twitter
       url: #
     - title: linkedin
-      url: #
-    - title: github
       url: #
 
 - name: René Laas
@@ -42,13 +38,11 @@ people:
       url: #
     - title: linkedin
       url: #
-    - title: github
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: meetup
-    url: http://twitter.com/jekyllrb
+    url: https://www.meetup.com/nl-NL/dutch-data-security-compliance-community/
   - title: linkedin
     url: https://www.linkedin.com/company/ddscc/
 
