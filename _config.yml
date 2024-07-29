@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: DDSCC
 email: info@ddscc.nl
-description: "Dutch Data Security and Compliance Community"
+description: "Dutch Data Security & Compliance Community"
 
 
 # Team names, titles and social links
@@ -18,7 +18,7 @@ people:
       url: #
     - title: linkedin
       url: #
-      
+
 - name: Freerk Terpstra
   pic: 2
   pic_url: https://media.licdn.com/dms/image/D4E03AQGsBOOY_8rrTw/profile-displayphoto-shrink_800_800/0/1677647259774?e=1727913600&v=beta&t=TGIRF6i876JSX9VMlJEOckg3WWyxSCnWYwRm9VnE6Rs
