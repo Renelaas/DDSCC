@@ -656,14 +656,6 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#services {
-    padding: 150px 0px 75px 0px !important;
-}
-
-section#spreken {
-    padding: 75px 0px 175px 0px !important;
-}
-
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
@@ -872,4 +864,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+section#services {
+    padding: 150px 0px 75px 0px !important;
+}
+
+section#spreken {
+    padding: 75px 0px 175px 0px !important;
 }
