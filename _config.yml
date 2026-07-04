@@ -27,11 +27,11 @@ people:
 
 - name: Jeroen Bijdevier
   pic: 3
-  pic_url: https://media.licdn.com/dms/image/v2/D4E03AQEFJMPdxR0gAg/profile-displayphoto-shrink_400_400/B4EZV1oPT3GgAk-/0/1741435238102?e=1756944000&v=beta&t=6WmjQCTmbkpzxa_E389Aw_0yO5RdaSTb_Eao7GbOfmo
+  pic_url: "/img/bram.jpeg"
   position: Organisator
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/renelaas/
+  pic_url: "/img/jeroen.jpeg"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
