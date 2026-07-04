@@ -14,8 +14,6 @@ people:
   pic_url: https://media.licdn.com/dms/image/v2/D4E03AQHwoTj2oCnW9g/profile-displayphoto-shrink_800_800/B4EZTWTaSmGwAc-/0/1738762200780?e=1756944000&v=beta&t=ZcyDNG281tZ1l-aIZ9hBQXMd6PrrWUcW30Ry5WNDTpY
   position: Organisator
   social:
-    - title: twitter
-      url: https://x.com/bramdejager
     - title: linkedin
       url: https://www.linkedin.com/in/bramdejager/
 
@@ -24,8 +22,14 @@ people:
   pic_url: https://media.licdn.com/dms/image/v2/D4E03AQEFJMPdxR0gAg/profile-displayphoto-shrink_400_400/B4EZV1oPT3GgAk-/0/1741435238102?e=1756944000&v=beta&t=6WmjQCTmbkpzxa_E389Aw_0yO5RdaSTb_Eao7GbOfmo
   position: Organisator
   social:
-    - title: twitter
-      url: https://x.com/mr_helaas
+    - title: linkedin
+      url: https://www.linkedin.com/in/renelaas/
+
+- name: Jeroen Bijdevier
+  pic: 3
+  pic_url: https://media.licdn.com/dms/image/v2/D4E03AQEFJMPdxR0gAg/profile-displayphoto-shrink_400_400/B4EZV1oPT3GgAk-/0/1741435238102?e=1756944000&v=beta&t=6WmjQCTmbkpzxa_E389Aw_0yO5RdaSTb_Eao7GbOfmo
+  position: Organisator
+  social:
     - title: linkedin
       url: https://www.linkedin.com/in/renelaas/
 
