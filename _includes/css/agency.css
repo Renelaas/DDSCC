@@ -349,6 +349,11 @@ section h3.section-subheading {
     }
 }
 
+section#spreken {
+    padding: 0px 0px 150px 0px !important;
+}
+ 
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
@@ -865,13 +870,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
-
-
-section#services {
-    padding: 150px 0px 75px 0px !important;
-}
-
-section#spreken {
-    padding: 75px 0px 175px 0px !important;
-}
- 
