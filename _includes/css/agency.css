@@ -656,10 +656,6 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#services {
-    Padding: 0 !important;
-}
-
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
