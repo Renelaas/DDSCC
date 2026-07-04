@@ -657,8 +657,12 @@ aside.clients img {
 }
 
 section#services {
-        padding: 150px 0px 75px 0px !important;
-    }
+    padding: 150px 0px 75px 0px !important;
+}
+
+section#spreken {
+    padding: 75px 0px 175px 0px !important;
+}
 
 section#contact {
     background-color: #222;
