@@ -656,6 +656,10 @@ aside.clients img {
     margin: 50px auto;
 }
 
+section#services {
+        padding: 0px 0px 0px 0px !important;
+    }
+
 section#spreken {
         padding: 0 0 0 0 !important;
     }
