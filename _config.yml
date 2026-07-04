@@ -19,7 +19,7 @@ people:
 
 - name: René Laas
   pic: 2
-  pic_url: "/img/rene.jpeg"
+  pic_url: https://media.licdn.com/dms/image/v2/D4E03AQEFJMPdxR0gAg/profile-displayphoto-shrink_400_400/B4EZV1oPT3GgAk-/0/1741435238102?e=1756944000&v=beta&t=6WmjQCTmbkpzxa_E389Aw_0yO5RdaSTb_Eao7GbOfmo
   position: Organisator
   social:
     - title: linkedin
@@ -31,7 +31,7 @@ people:
   position: Organisator
   social:
     - title: linkedin
-  pic_url: "/img/jeroen.jpeg"
+      url: https://www.linkedin.com/in/renelaas/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
